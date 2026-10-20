@@ -4,3 +4,4 @@
 
 # SELinux Policy Directories
 BOARD_VENDOR_SEPOLICY_DIRS += vendor/xiaomi/everpal/sepolicy/vendor
+DEVICE_MANIFEST_FILE += vendor/xiaomi/everpal/proprietary/vendor/etc/vintf/manifest/manifest_xiaomi_hyperos.xml
