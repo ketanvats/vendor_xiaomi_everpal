@@ -1,0 +1,4 @@
+service vendor.xiaomi.hardware.citsensorservice-service /vendor/bin/hw/vendor.xiaomi.hardware.citsensorservice-service
+    class hal
+    user system
+    group system input

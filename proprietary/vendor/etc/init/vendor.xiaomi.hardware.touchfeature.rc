@@ -1,0 +1,5 @@
+service vendor.xiaomi.hardware.touchfeature-service /vendor/bin/hw/vendor.xiaomi.hardware.touchfeature-service
+    class hal
+    user system
+    group system input
+    capabilities SYS_NICE

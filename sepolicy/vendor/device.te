@@ -1,0 +1,3 @@
+type touchfeature_device, dev_type;
+type perf_device, dev_type;
+type disp_param_device, dev_type;

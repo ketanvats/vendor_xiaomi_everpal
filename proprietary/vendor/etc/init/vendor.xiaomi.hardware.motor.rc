@@ -1,0 +1,4 @@
+service vendor.xiaomi.hardware.motor-service /vendor/bin/hw/vendor.xiaomi.hardware.motor-service
+    class hal
+    user system
+    group system

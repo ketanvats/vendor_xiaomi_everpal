@@ -1,0 +1,6 @@
+service vendor.xiaomi.hardware.displayfeature-service /vendor/bin/hw/vendor.xiaomi.hardware.displayfeature-service
+    class hal
+    user system
+    group system graphics
+    capabilities SYS_NICE
+    onrestart restart surfaceflinger

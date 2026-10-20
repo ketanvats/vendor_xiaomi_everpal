@@ -1,0 +1,5 @@
+type hal_displayfeature_xiaomi_hwservice, hwservice_manager_type;
+type hal_touchfeature_xiaomi_hwservice, hwservice_manager_type;
+type hal_citsensorservice_xiaomi_hwservice, hwservice_manager_type;
+type hal_motor_xiaomi_hwservice, hwservice_manager_type;
+type hal_mtdservice_xiaomi_hwservice, hwservice_manager_type;
