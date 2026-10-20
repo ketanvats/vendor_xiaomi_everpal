@@ -4,10 +4,9 @@ Unified vendor repository tailored to boot **Xiaomi HyperOS 4 (Android 17)** and
 
 ## Supported Devices
 - Redmi Note 11 5G (China) / `evergo`
-- Redmi Note 11T 5G (India) / `evergreen`
+- Redmi Note 11T 5G (India) / `evergo`
 - POCO M4 Pro 5G / `evergreen`
 - Redmi Note 11S 5G / `opal`
-- Redmi 10 5G / Redmi Note 11E / Redmi Note 11R / `light`
 
 ## Features & Improvements
 - **Xiaomi HyperOS Proprietary Services**:
